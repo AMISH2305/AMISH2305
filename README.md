@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AMISH NAIR
 - 👀 I’m interested in ... Machine Learning
-- 🌱 I’m currently learning ... Comparitive Analysis using Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @_deadline_dork23
+- 🌱 I’m currently learning ... Quantitative Trading using AI Trading Bots
+- 📫 How to reach me ... aamish23052003@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... The problem with patience and discipline is that developing each of them requires both of them!!
 
